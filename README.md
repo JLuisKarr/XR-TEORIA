@@ -9,6 +9,7 @@ Algunos investigadores mencionan la realidad virtual y la realidad aumentada las
 que transforman el salón de clase [2].
 Nuestras pretensiones son un poco más modestas. Presentar al alumno tanto la realidad virtual y la real aumentada
 utilizando para ello software y programación de interfaces de interacción con el humano.
+Este contenido lo dedico a mis alumnos de animación y vfx, gracias por su paciencia y esfuerzo.
 
 Referencias
 [1] Juan Fernando Donoso Araujo. Universidad Iberoamericana Ciudad de México.
